@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D:/c#-project/WinFormsSerialPort2/Awen串口助手/Awen串口助手.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="D:/c#-project/WinFormsSerialPort2/WinFormsSerialPort2/WinFormsSerialPort2.csproj" />
+</Solution>

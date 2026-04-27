@@ -1,0 +1,7 @@
+/Awen串口助手/
+/bin/
+/obj/
+.vs/
+*.msi
+*.exe
+*.zip
